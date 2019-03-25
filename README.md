@@ -4,9 +4,10 @@ This reposistory is meant for the IGN Code Foo 2019 internship. Feel free to hav
 
 Note:
 
-1. For the Witcher_Geralt_of_Rivia, the correct one is Witcher_Geralt_of_Rivia3. 
+1. For the Witcher_Geralt_of_Rivia, the correct one is Witcher_Geralt_of_Rivia3. The explantion is this link: https://www.youtube.com/watch?v=Z9CPzM2wids
 
-2. 
+
+2. My Introductory Video should include the link to a Youtube Video.
 
 
 
