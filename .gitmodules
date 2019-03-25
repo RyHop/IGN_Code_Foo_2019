@@ -1,0 +1,6 @@
+[submodule "Witcher_Geralt_of_Rivia3"]
+	path = Witcher_Geralt_of_Rivia3
+	url = https://github.com/RyHop/Witcher_Geralt_of_Rivia3
+[submodule "IGN_Code_Foo_2019_Android_App"]
+	path = IGN_Code_Foo_2019_Android_App
+	url = https://github.com/RyHop/IGN_Code_Foo_2019_Android_App
